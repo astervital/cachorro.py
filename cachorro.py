@@ -9,8 +9,6 @@ class Cachorro:
         self.energia = 100
 
 
-
-
     def comer(self):
         if self.acordado:
             self.comida -= 1
